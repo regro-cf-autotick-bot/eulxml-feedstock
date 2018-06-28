@@ -32,6 +32,7 @@ requirements:
     - ply >=3.8
     - lxml >=3.4
     - six >=1.10
+    - setuptools
 
 test:
   imports:
